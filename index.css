@@ -1,0 +1,99 @@
+.titulo{
+background-image:url(./imagenes/ba.jpg);
+transform: translateY(-25px);
+}
+body{
+    background-color: #C9FFC4;
+    padding: 1px;
+}
+h1{
+color: White;
+font-family: Avocado Creamy;
+text-align:center;
+font-size:70px;
+transform: translateY(25px);
+}
+h6{
+    color: #A5F49E;
+    font: oblique bold 120% cursive;
+    text-align: center;
+    font-size: 20px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.s1{
+    width:70%;
+    height:100%;
+    margin:auto;
+    overflow:hidden;
+    float: left;
+    font-family: Homer Simpson UI;
+    font-size: 20px;
+    transform: translateY(10px);
+    color: #5A260F;
+}
+.s2{
+    width: 70%;
+    height: 100%;
+}
+.s3{
+    width: 70%;
+    height: 100%;
+}
+.p7{
+     text-align: center;
+     font-family: cambria;
+     color: #5A260F;
+     transform: translateY(10px);
+}
+.t3{
+    color: #5A260F;
+    height: 10%;
+}
+td{
+    width: 10%;
+    height: 100%;
+    font-family: cambria;
+    color: #5A260F;
+}
+img{ 
+display: block;
+width: 200px;
+height: 180px;
+margin: auto;
+transform: translateY(15px);
+}
+#mover{
+    height: 150px;
+}
+.footer{
+    font-family: Cambria;
+    font-size: 15px;
+    color: lightslategray;
+    text-align: right;
+}
+.materias{
+float: right;
+display:flex;
+flex-direction:column;
+overflow:hidden;
+width:29.8%;
+height: 250px;
+font-family: Verdana;
+border:1px solid #295A0F;
+border-radius:8px;
+margin:0 auto;
+}
+.COLOR1{
+    height: 80px;
+    background-color: lightgreen;
+    border-radius: 5px 5px;
+}
+.COLOR2{
+    height: 80px;
+    background-color: lightgreen;
+}
+.COLOR3{
+    height: 80px;
+    background-color: lightgreen;
+}

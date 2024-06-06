@@ -1,0 +1,28 @@
+body{
+	background-image: url(https://i.pinimg.com/564x/80/f3/a8/80f3a85f7102cdd70eccfa259dec026c.jpg);
+}
+h1{
+	color: olivedrab;
+	font-family: Avocado Creamy;
+	font-weight: bold;
+	text-align: center;
+	font-size: 80px;
+	-webkit-text-stroke-width: .005px;
+	-webkit-text-stroke-color: black;
+}
+p{
+	color: #296C0C;
+	font-family: cambria;
+	font-size: 45px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+}
+ol{
+	font-family: Calibri;
+	color: #4D2D09;
+	font-size: 25px;
+}
+button{
+	background-color: olive;
+	color: blue;
+}

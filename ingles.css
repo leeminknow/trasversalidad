@@ -1,0 +1,42 @@
+.ingles{
+    color:#ec48b0;
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(./imagenes/fondo.jpg);
+}
+.c{
+    text-align: center;
+    background-color:#f7c4e4;
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-size: 100px;
+}
+h2{
+    background-color: #fdc1e5;
+    color: #ff6cd1;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: #c32288;
+}
+h4{
+    text-align: center;
+    color:#ec48b0;
+}
+footer{
+    text-align: right;
+    color: #770b50;
+}
+#imgi{
+    width: 200px;
+    height: 200px;
+}
+.boton{
+    color: black;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color: red;
+}
